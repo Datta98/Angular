@@ -1,0 +1,20 @@
+
+<input class="form-control" type="text" name="name" [(ngModel)]="name" 
+(ngModelChange)="Search()" placeholder="search"><br/>
+<input type="checkbox">
+<label>Only Show Products in stock</label>
+<option *ngFor="let product of linkModels" [ngValue]="product" class="col-sm-6">
+
+
+                        <p>{{product.catergory}}</p> 
+           
+                        <p>{{product.name}}</p>
+              
+                        <p>{{product.price}}</p>
+            
+            
+
+  
+ 
+   
+   </option>
