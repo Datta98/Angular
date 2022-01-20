@@ -1,0 +1,33 @@
+.contact{
+    padding-left: 20px;
+     /* height: 300px; */
+     width: 100%;
+     background-color: black;
+     color:white;
+    }
+.heading{
+    padding-left: 12px;
+    
+}
+.paragraph{
+    padding-top: 0%;
+    padding-left: 12px;
+    color: gray;
+}
+.icons{
+    color: gray;
+}
+.home{
+    padding: 10px;
+}
+.phone{padding: 10px}
+.email{padding: 10px}
+
+i{
+    padding-bottom: 10px;
+    padding-right: 20px;
+    color:#6b9629
+}
+p{
+    width: 89%;
+}

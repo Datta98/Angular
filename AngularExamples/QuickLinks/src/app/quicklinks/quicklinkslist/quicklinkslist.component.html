@@ -1,0 +1,42 @@
+<!-- <section>
+    <div class="container">
+       <h3>Quick Links</h3>
+        <div class="row">
+            <div *ngFor="let LinksModel of linkModels" class="col-sm-6">
+                    <quicklinks-item [link]="LinksModel.linkText" [href]="LinksModel.href" ></quicklinks-item>
+              
+            </div>
+            <div class="col-sm-6">
+                
+            </div>
+        </div>
+    </div>
+
+</section> -->
+
+
+
+<div class="col">
+    <div class="row inputRow">
+        <div class="col gu8" style="margin-left: 3%;">
+            <h3 class="noselect">Interest Rate</h3>
+        </div>
+        <div class="col slider dslider" style="margin-left: 3%;">
+            <input id="interestSlider" type="range" min="10.5" max="19" step="0.01" value="12.99" data-index="2" class="sliderRange slider" style="position: absolute; width: 1px; height: 1px; overflow: hidden; opacity: 0;"><div class="rangeslider rangeslider--horizontal" id="js-rangeslider-1"><div class="rangeslider__fill" style="width: 264px;"></div><div class="rangeslider__handle" style="left: 251px;"></div></div>
+        </div>
+        <div role="presentation" class="col">
+            <div>
+                <div class="wrapper" style="margin-left: -10%;">
+                    <input type="text" autocomplete="off" class="textBox smallTextBox interestbox sliderText" data-index="2" min="10.5" max="19" tabindex="0" id="interestRate" onkeypress="return isNumberKey(event);" value="12.99" maxlength="5">
+                    <div class="errorMsg" data-index="2">
+                        The value entered must be a number that is greater than or equal to 10.5 and less than
+                        or equal to 19.</div>
+                    <input type="hidden" name="interestRate" value="12.99">
+                </div>
+            </div>
+        </div>
+        <div class="col termText">
+            <p class="noselect">p.a.</p>
+        </div>
+    </div>
+</div>
