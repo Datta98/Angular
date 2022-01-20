@@ -1,0 +1,28 @@
+ <h1 style="color: white;">Upload File</h1>
+    <div class="row">
+        <h1>Form Details</h1>    
+        <form [formGroup]="detailsform" (ngSubmit)="onSubmit(detailsform.value)">
+            <label>Choose Filepath:</label>
+            <input type="text" formControlName="Filepath" placeholder="Enter the filepath">
+            <span class="error" *ngIf="Filepath!.invalid">*filepath is required</span><br>
+    
+            <label>Alternate Name:</label>
+            <input type="text" formControlName="Alt" placeholder="Enter the alt">
+            <span class="error" *ngIf="Alt!.invalid">*Alt name is required</span><br>
+    
+            <button type="submit">Submit</button>&nbsp;
+            <button  (click)="clearForm()" type="reset">Reset</button>
+        </form>
+    </div>  
+
+
+
+
+
+
+
+
+
+
+
+    

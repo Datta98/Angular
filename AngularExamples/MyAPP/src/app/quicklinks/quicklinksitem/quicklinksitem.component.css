@@ -1,0 +1,16 @@
+li 
+{
+    padding-bottom: 23px;
+    color: gray;
+}
+a 
+{
+    color: gray;
+    text-decoration: none;
+}
+a:hover {
+    color: white;
+  }
+ul{
+    margin: 0;
+}

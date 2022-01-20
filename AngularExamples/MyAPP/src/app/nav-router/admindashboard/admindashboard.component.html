@@ -1,0 +1,21 @@
+<p>admindashboard works! welcome {{currentuser}} </p>
+<div class="row">
+    <div class="col-md-4">
+      <ul>
+        <li><a routerLink="" href="#home">Home</a></li>
+        <li><a routerLinkActive="active" routerLink="/createquicklink">createquicklink</a></li>    
+        <!-- <li><a routerLinkActive="active" routerLink="/listquicklink">listquicklink</a></li>    -->
+        <li><a routerLinkActive="active" routerLink="/creategallery">CreateGallery</a></li>    
+        <!-- <li><a routerLinkActive="active" routerLink="/listgallery">GalleryList</a></li>   -->
+    </ul>
+    </div>
+    <div class="col-md-4 router">
+      <router-outlet></router-outlet>
+    </div>
+    <div class="col-md-4">
+      
+    </div>
+</div>
+
+
+<a  [routerLink]="['/']">Logout</a>

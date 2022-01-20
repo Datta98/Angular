@@ -1,0 +1,79 @@
+<!-- <div class="row">
+    <div class="col-md-4">
+          
+    </div>
+    <div class="col-md-4">
+        <div class="dropdown">
+            <button class="btn btn-block  btn-secondary dropdown-toggle" type="button" data-toggle="dropdown" >
+              Gallery
+            </button>
+            <div class="dropdown-menu" aria-labelledby="dropdownMenu2">
+              <button class="dropdown-item" type="button"><a class="nav-link active dropdown-item"  data-toggle="pill" routerLinkActive="active" routerLink="/create" >CreateGallery</a></button>
+              <button class="dropdown-item" type="button"><a class="nav-link"  data-toggle="pill"  routerLinkActive="active" routerLink="/list" >GalleryList</a></button>
+            </div>
+          </div>
+        </div>
+    
+    <div class="col-md-4">
+       <router-outlet></router-outlet>
+    </div> -->
+    
+<!-- </div> -->
+
+  <!-- <div class="row">
+
+    <div class="col-md-4">
+      <div id="divMenu">    
+        <ul>    
+            <li><a href="#">Gallery</a>    
+            <ul>    
+                <li><a routerLinkActive="active" routerLink="/creategallery">CreateGallery</a></li>    
+                <li><a routerLinkActive="active" routerLink="/listgallery">GalleryList</a></li>    
+            </ul>    
+            </li>    
+            <li><a href="#">QuickLinks</a>    
+                    <ul>    
+                      <li><a routerLinkActive="active" routerLink="/createquicklink">createquicklink</a></li>    
+                <li><a routerLinkActive="active" routerLink="/listquicklink">listquicklink</a></li>   
+            </ul></li>    
+            <li><a href="#">Home3</a>    
+                    <ul>    
+                <li><a href="#">Homeg</a></li>    
+                <li><a href="#">Homeh</a></li>    
+                <li><a href="#">Homei</a></li>    
+            </ul></li>    
+            <li><a href="#">Home4</a></li>    
+            <li><a href="#">Home5</a>    
+                    <ul>    
+                <li><a href="#">Homej</a></li>    
+                <li><a href="#">Homek</a></li>    
+                <li><a href="#">Homel</a></li>    
+            </ul></li>    
+            <li><a href="#">Home6</a></li>    
+        </ul>    
+        
+        </div> 
+    </div>
+    <div class="col-md-4">
+      <router-outlet></router-outlet>
+    </div>
+    <div class="col-md-5">
+      
+    </div>
+  </div> 
+   -->
+   
+    <main-header></main-header>
+  
+
+<div class="row">
+  <div class="col-md-4">
+  <app-contactinfo-list></app-contactinfo-list>
+  </div>
+  <div class="col-md-4">
+    <quicklinks-list></quicklinks-list>
+  </div>
+  <div class="col-md-4">
+    <app-gallery-list></app-gallery-list>
+  </div>
+</div>

@@ -1,0 +1,90 @@
+ 
+ /* a {
+    display: inline-block;
+    text-align: left;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 13px;
+  }
+  .dropdown{
+    font-size:190%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 70%;
+  }
+  .btn{
+    size:500%;
+  } */
+
+  /* #divMenu, ul, li, li li {  
+    margin: 0;  
+    padding: 0;  
+}  
+   
+#divMenu {  
+    width: 150px;  
+    height: 27px;  
+}  
+   
+#divMenu ul  
+{  
+     line-height: 25px;  
+}  
+   
+    #divMenu li {  
+        list-style: none;  
+        position: relative;  
+        background: #1a1717;  
+    }  
+   
+        #divMenu li li {  
+            list-style: none;  
+            position: relative;  
+            background: #4d4a4a;  
+            left: 148px;  
+            top: -27px;  
+        }  
+   
+   
+    #divMenu ul li a {  
+        width: 148px;  
+        height: 25px;  
+        display: block;  
+        text-decoration: none;  
+        text-align: center;  
+        font-family: Georgia,'Times New Roman',serif;  
+        color:#ffffff;  
+        border:1px solid #eee;  
+    }  
+   
+    #divMenu ul ul {  
+        position: absolute;  
+        visibility: hidden;  
+        top: 27px;  
+    }  
+   
+    #divMenu ul li:hover ul {  
+        visibility: visible;  
+    }  
+   
+    #divMenu li:hover {  
+        background-color: #293138;  
+    }  
+   
+    #divMenu ul li:hover ul li a:hover {  
+        background-color: #293138;  
+    }  
+   
+    #divMenu a:hover {  
+        font-weight: bold;  
+    }  */
+  
+   .row{
+       background-color: black;
+   }
+   .body{
+    background-color:white;
+   }
+   .body img{
+  
+  background-image:url("./pic2.jpg");
+  }
