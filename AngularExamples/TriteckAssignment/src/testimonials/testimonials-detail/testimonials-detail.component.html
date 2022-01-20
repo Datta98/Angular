@@ -1,0 +1,49 @@
+<p>testimonials-detail works!</p>
+
+
+<div class="center"> 
+        <h1>Form Details</h1>    
+    
+    <form [formGroup]="detailsform" #frm="ngForm" (ngSubmit)="saveapi(frm.value)">
+        <table>
+            <tr>
+                <td>
+        <label>
+            ContentMessage: </label><br><br></td>
+            <td><input type="text" formControlName="ContentMessage" placeholder="Enter the ContentMessage" required ngModel><br></td>
+            <td><span class="error" *ngIf="ContentMessage!.invalid">*ContentMessage is required</span></td>
+         <br><br>
+        </tr>
+    <tr>
+       <td> <label>
+            ImageSource:</label><br><br></td>
+        <td> <input type="text" formControlName="ImageSource" placeholder="Enter the ImageSource" ngModel><br></td>
+            <td><span class="error" *ngIf="ImageSource!.invalid">*ImageSource is required</span></td>
+        <br><br>
+    </tr>
+    <tr>
+        <td>
+        <label>
+            Name: </label><br><br></td>
+            <td> <input type="text" formControlName="Name" placeholder="Enter the Name" ngModel><br></td>
+            <td><span class="error" *ngIf="Name!.invalid">*Name is required</span></td>
+        <br><br>
+    </tr> 
+    <tr>
+            <td>
+            <label>
+                Role: </label><br><br></td>
+                <td> <input type="text" formControlName="Role" placeholder="Enter the Role" ngModel><br></td>
+                <td><span class="error" *ngIf="Role!.invalid">*Role is required</span></td>
+            <br><br>
+        </tr> 
+    
+    <tr>
+     
+    <button type="submit"(click)="onSubmit(detailsform.value)">Submit</button><br><br>
+    <button  (click)="clearForm()" type="reset">Reset</button>
+ 
+</tr>
+</table>
+</form>
+</div>

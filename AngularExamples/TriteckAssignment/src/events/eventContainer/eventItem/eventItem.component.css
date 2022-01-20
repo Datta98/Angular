@@ -1,0 +1,19 @@
+.class{
+    text-align: justify;
+}
+
+#head { width:500px;text-align: justify;padding-top:60px;}
+
+.date{
+    font-size: 13px;
+    margin-top: -7px;
+    color: #7c7c81;
+    
+
+}
+
+.info{
+    line-height: 20px;
+    
+
+}

@@ -1,0 +1,15 @@
+
+<div class="testimonials-clean">
+        <div class="container">
+                <h3>TESTIMONIALS<br><i class='far fa-comment-alt'></i></h3>
+                <div  class="row people">
+                    <div *ngFor="let datamodel of dataModels" class="col-md-2 col-lg-6 item">              
+                     <testimonial-item [content]="datamodel.contentMsg"  [img_src]="datamodel.imageSource" [name]="datamodel.name" [role]="datamodel.role" ></testimonial-item>
+                    </div>
+               
+                    <!-- <div class="col-md-2 col-lg-6 item">              
+                        <testimonial-item [content]="'Education is the process of facilitating learning,or the acquisition of knowledge,skills,values,beliefs,and habits.Educational methods include storytelling,discussion,teching,training and directed research.Lorem ipsum dolor sit amet.consectetur adipiscing elit.... '" [img_src]="'https://media.istockphoto.com/photos/put-more-in-get-more-out-picture-id1291318636'" [name]="'JULIA MILLER'" [role]="'Student'"></testimonial-item>
+                    </div> -->
+                </div>
+        </div>
+</div>

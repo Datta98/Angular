@@ -1,0 +1,46 @@
+#main{
+    width: 400px;
+    height: 150px;
+    float: left;
+    padding-left: 10px;
+}
+#text{
+    float: left;
+    width: 60%;
+    text-align: right;
+} 
+p{
+    color: #474d4d;  
+}   
+#circle{
+    width: 35%;
+    float: right;
+}
+#value{
+    color: white;
+    font-size: 30px;
+    border-radius: 50%;
+    width:65px;
+    height: 60px;
+    text-align:center;
+    padding-top: 8px;
+    background-color: #e6502f;  
+}
+  #main1{
+    width: 400px;
+    height: 100px;
+    
+    /* margin-top: -100px; */
+    float: right;
+}
+#circle1{
+    float: left;
+   width: 20%;
+    /*  text-align: right; */
+  
+} 
+ #text1{
+    width: 80%;
+    float: right;
+    text-align: left; 
+} 

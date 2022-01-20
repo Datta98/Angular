@@ -1,0 +1,45 @@
+<p>create-data-statistics works!</p>
+
+<table>
+    <tr>
+        <td>Titel</td>
+        <td><input type="text" [(ngModel)]="title" /></td>
+        
+    </tr>
+    <tr>
+        <td>Text</td>
+        <td><input type="text" [(ngModel)]="text"/></td>
+    </tr>
+    <tr>
+        <td>Value</td>
+        <td><input type="text" [(ngModel)]="value"/></td>
+    </tr>
+    <tr>
+        <td><button type="button" name="submit" (click)="onSubmit()">submit</button></td>
+        <td><button type="button" name="clear" (click)="onClear()">clear</button></td>
+    </tr>
+</table>
+
+
+
+
+<!-- <div>
+    <table>
+        <tr>
+            <td>Titel</td>
+            <td><input type="text"  #titleTextBox (input)="onTitleEdit(titleTextBox.value)" [value]="title"/></td>
+        </tr>
+        <tr>
+            <td>Text</td>
+            <td><input type="text" #textTextBox (input)="onTextEdit(textTextBox.value)" [value]="text"/></td>
+        </tr>
+        <tr>
+            <td>Value</td>
+            <td><input type="text" #valueTextBox (input)="onValueEdit(valueTextBox.value)" [value]="value"/></td>
+        </tr>
+        <tr>
+            <td><button type="button" name="submit" (click)="onSubmit()">submit</button></td>
+            <td><button type="button" name="clear" (click)="onClear()">clear</button></td>
+        </tr>
+    </table>
+</div> -->

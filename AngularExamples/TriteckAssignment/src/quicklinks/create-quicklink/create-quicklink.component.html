@@ -1,0 +1,45 @@
+
+
+<!-- <table>
+    <tr>
+        <td>LinkText:</td>
+        <td><input [(ngModel)]="link" type="text" /></td>
+    </tr>
+    <tr>
+            <td>Href:</td>
+        <td><input [(ngModel)]="href" type="text" /></td>
+        </tr>
+        
+                <tr>
+                        <td><button type="button" name="submit" (click)="onSubmitClick()">submit</button></td>
+                        <td><button type="button" name="clear" (click)="onClearClick()">clear</button></td>
+                    </tr>
+</table> -->
+<div class="container"> 
+        <h1>QuickLinks</h1>    
+    
+    <form [formGroup]="detailsform">
+      
+
+         <div class="formgroup">
+                <label>Links:</label><br>
+                <input  type="text" formControlName="LinkText" placeholder="Enter the Links" required><br>
+            <span class="error" *ngIf="Links!.invalid">Links  is required</span>
+    
+            </div><br>
+        
+         <div class="formgroup">
+                <label>Href:</label><br>
+                <input type="text" formControlName="Href" placeholder="Enter the Href"><br>
+                <span class="error" *ngIf="Href!.invalid">Href is required</span>
+    
+            </div><br>
+           
+       
+        
+    </form>
+    
+    <form [formGroup]="detailsform" (ngSubmit)="onSubmit(detailsform.value)"></form>
+    <button  (click)="onSubmit(detailsform.value)" type="submit">Submit</button>
+    <button (click)="clearForm()" type="reset" >Reset</button>
+    </div>

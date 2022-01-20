@@ -1,0 +1,38 @@
+
+img{
+    width:2%;
+    height:2%;
+     
+    float: right;
+    padding-right: 30px;
+}
+h6,img
+{
+   
+    display: inline-block;  
+    color:white;
+   
+}
+h6{
+    padding-left: 50px;
+}
+.col{
+    background-color: black;
+    height: 35px;
+    
+}
+i{
+    padding-bottom: 10px;
+    padding-right: 20px;
+    color:#8a8787
+}
+i:hover
+{
+    color: white;
+}
+.icons
+{
+    float: right;
+    display: flex;
+    padding-right: 8%;
+}

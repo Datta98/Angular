@@ -1,0 +1,42 @@
+
+  /* * {
+    box-sizing: border-box;
+    
+  }
+  
+  .main {
+    max-width: 400px;
+    margin-left: 70%;
+  
+  }
+  img {
+    width:100%;
+    height:100%;
+    object-fit:contain;
+  }
+   */
+  
+  
+  
+  /* Add padding BETWEEN each column (if you want) */
+  .row,
+  .row > .column {
+    padding: 4px;
+    
+    
+  }
+ 
+  /* Create three equal columns that floats next to each other */
+  .column {
+    float: left;
+    width: 138px;
+  }
+  
+  /* Clear floats after rows */
+  
+  
+  /* Content */
+  .content {
+    background-color: rgb(117, 21, 21);
+  }
+  

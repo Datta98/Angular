@@ -1,0 +1,12 @@
+<div class="container mt-5">
+        <div class="row" >
+                <div class="card-group" >
+                    <div *ngFor="let content of contents" class="col-sm-4">    
+                        <menu-item [heading]="content.title" [contents]='content.contents.split(",")'  [bgcolor]="'#9cd71a'" [bgcolorcontent]="'#86c016'" [color]="'#ffffff' "> </menu-item> 
+                    </div>
+                    <!-- <div class="col-sm-4"><menu-item [heading]="'Consultancy'" [content]="'Architecture Consulting'" [bgcolor]="'#f8833f'" [bgcolorcontent]="'#ef7136'"  [color]="'#ffffff'"></menu-item></div>
+                    <div class="col-sm-4"><menu-item [heading]="'Certifications'" [content]="'Microsoft Certification Courses'" [bgcolor]="'#06b9ed'" [bgcolorcontent]="'#05a1dc'"  [color]="'#ffffff'"></menu-item></div> -->
+                    <!-- <div class="col-sm-4" ><menu-item [heading]="'Certifications'" [content]="'Microsoft Certification Courses'"></menu-item></div> -->
+                </div>
+        </div>
+</div>

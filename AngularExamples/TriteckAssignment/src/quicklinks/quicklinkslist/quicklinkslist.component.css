@@ -1,0 +1,12 @@
+h3
+{
+    color: white;
+    padding-left: 4%;
+}
+.container {
+    background-color: black;
+    /* width: 40%; */
+    height: 300px;
+    align-items: center;
+
+}

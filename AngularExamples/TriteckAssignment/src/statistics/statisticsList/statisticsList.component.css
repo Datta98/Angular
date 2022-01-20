@@ -1,0 +1,23 @@
+.div-left{
+    float: left;
+}
+
+.heading{
+    text-align: center;
+}
+.Image{
+    float: left;
+    height: 500px;
+    width: 400px;
+    background-image:url("./Capture.png");
+  }
+.div-right{
+    float: right;
+}
+.Icon{
+   
+    height: 10px;
+    width: 100px;
+    background-image:url("./Icon.png");
+  }
+  

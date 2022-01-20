@@ -1,0 +1,21 @@
+.testimonials-clean {
+    color:#313437;
+    background-color:white;
+  }
+  
+  .testimonials-clean .people {
+    padding:50px 0 20px;
+  }
+  h3{
+    text-align: center;
+    color: #3e50b4;
+    font-weight:bold;
+  }
+  i{
+    font-size:22px;
+    color:#3e50b4;
+    text-align: center;
+  }
+  
+  
+ 

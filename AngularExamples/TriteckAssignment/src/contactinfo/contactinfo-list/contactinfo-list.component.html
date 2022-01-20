@@ -1,0 +1,8 @@
+<div class="container">
+        <div class="heading"><h2>Contact info</h2></div>
+        
+<div *ngFor="let ContactModel of contactModels">
+    <contactinfo-item [content]="ContactModel.content" [address]="ContactModel.address" [phone]="ContactModel.phone" [email]="ContactModel.email"></contactinfo-item>
+</div>
+
+</div>

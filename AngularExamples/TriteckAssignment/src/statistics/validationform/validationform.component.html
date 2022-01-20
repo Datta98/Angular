@@ -1,0 +1,29 @@
+
+
+
+<div class="center">     
+    <p>validationform works!</p>
+    <form [formGroup]="Validationform">
+        <label>
+            Title: </label>
+            <input type="text" formControlName="Title" placeholder="Enter the Title" required><br>
+            <span class="error" *ngIf="Title!.invalid">Title is required</span>
+         <br><br>
+         
+        <label>
+            Text:</label>
+            <input type="text" formControlName="Text" placeholder="Enter the Text"><br>
+            <span class="error" *ngIf="Text!.invalid">Text is required</span>
+        <br><br>
+        <label>
+            Value: </label>
+            <input type="text" formControlName="Value" placeholder="Enter the Value"><br>
+            <span class="error" *ngIf="Value!.invalid"> Enter The Value</span>
+        <br><br>
+        
+    </form>
+   
+    <button (click)="onSubmit(Validationform.value)" type="submit">Submit</button>
+    <button  (click)="clearForm()" type="submit" >Reset</button>
+    
+    </div>

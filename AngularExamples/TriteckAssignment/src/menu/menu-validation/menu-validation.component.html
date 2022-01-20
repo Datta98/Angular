@@ -1,0 +1,31 @@
+<p>menu-validation works!</p>
+<div class="center"> 
+        <h1>Form Details</h1>    
+    
+    <form [formGroup]="detailsform" #frm="ngForm" (ngSubmit)="saveapi(frm.value)">
+        <table>
+            <tr>
+                <td>
+        <label>
+            Title: </label></td>
+            <td><input type="text" formControlName="Title" placeholder="Enter the Title" ngModel><br></td>
+            <td><span class="error" *ngIf="Title!.invalid">*Title is required</span></td>
+         <br><br>
+        </tr>
+    <tr>
+       <td> <label>
+        Contents:</label></td>
+        <td> <input type="text" formControlName="Contents" placeholder="Enter the Contents" ngModel><br></td>
+            <td><span class="error" *ngIf="Contents!.invalid">*Contents is required</span></td>
+        <br><br>
+    </tr>
+   
+  <tr>
+    <!-- <td><form [formGroup]="detailsform" (ngSubmit)="onSubmit()"></form></td> -->   
+    <button type="submit" (click)="onSubmit(detailsform.value)">Submit</button><br><br>
+    <button  (click)="clearForm()" type="reset">Reset</button>
+    
+</tr>
+</table>
+</form>
+</div>

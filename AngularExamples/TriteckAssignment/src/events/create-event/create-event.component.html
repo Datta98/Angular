@@ -1,0 +1,46 @@
+<div class="center"> 
+    <h1>Form Details</h1>    
+
+<form [formGroup]="detailsform">
+    <table>
+       
+    
+<tr>
+   <td> <label>
+        Title:</label><br><br></td>
+    <td> <input type="text" formControlName="title" placeholder="Enter the title" #titletextBox type="text" (input)="onTitleEdit(titletextBox.value)" [value]="Title"><br></td>
+        <td><span class="error" *ngIf="title!.invalid">*Title is required</span></td>
+    <br><br>
+</tr>
+<tr>
+    <td> <label>
+        Date:</label><br><br></td>
+     <td> <input type="text" formControlName="date" placeholder="Enter the date" #titletextdate  type="text"  (input)="onDateEdit(titletextdate.value)" [value]="Date"><br></td>
+         <td><span class="error" *ngIf="date!.invalid">*Date name is required</span></td>
+     <br><br>
+ </tr>
+ <tr>
+        <td> <label>
+            Location:</label><br><br></td>
+ 
+        <td> <input type="text" formControlName="location" placeholder="Enter the location" #titletextloc  type="text"  (input)="onLocationEdit(titletextloc.value)" [value]="Location"><br></td>
+             <td><span class="error" *ngIf="location!.invalid">*Location name is required</span></td>
+         <br><br>
+     </tr>
+<tr>
+        <tr>
+                <td> <label>
+                    Description:</label><br><br></td>
+                 <td> <input type="text" formControlName="description" placeholder="Enter the description" #titletextdesc  type="text"  (input)="onDescriptionEdit(titletextdesc.value)" [value]="Description"><br></td>
+                     <td><span class="error" *ngIf="description!.invalid">*Description name is required</span></td>
+                 <br><br>
+             </tr>
+        <tr>
+<td><form [formGroup]="detailsform" (ngSubmit)="onSubmit(detailsform.value)"></form></td>   
+<button type="submit" (click)="onSubmit(detailsform.value)">Submit</button><br><br>
+<button   (click)="onClear()" type="reset">Reset</button>
+
+</tr>
+</table>
+</form>
+</div>

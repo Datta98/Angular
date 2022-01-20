@@ -1,0 +1,38 @@
+<div class="container">
+<div class="heading">
+    <h2>WHY CHOOSE US</h2>
+
+    <div class="Icom">
+        <img src=".//Icon.png" alt="image" />
+    </div>
+</div>
+
+<div id="main">
+        <div  class="row" >
+            <div class="col-sm-4">
+    <div  *ngFor="let dataStatistic of dataStatistics"  class="col-sm-12">
+        <data-statistics [title]="dataStatistic.title" [text]="dataStatistic.text" [value]="dataStatistic.value" [circleColor]="'#e6502f'"></data-statistics>
+        <!-- <data-statistics [title]="'5000 man years of experience'" [text]="'The propagation of universities was not necessarily a steady progression'" [value]="5000" [circleColor]="'#605ca8'"></data-statistics>
+        <data-statistics [title]="'300 Project delivered'" [text]="'The propagation of universities was not necessarily a steady progression'" [value]="300" [circleColor]="'#3cb879'"></data-statistics>
+        <data-statistics [title]="'10+ Project delivered for our client with GTM plan'" [value]="10" [circleColor]="'#ff00b4'"></data-statistics> -->
+    </div>
+</div>
+<div class="col-sm-4">
+    <div>
+        <img  class="Image" src=".//Capture.png" alt="image" />
+    </div>
+</div>
+<div class="col-sm-4">
+    <div  *ngFor="let dataStatistic of dataStatistics">
+         <data-statistics [title]="dataStatistic.title" [text]="dataStatistic.text" [value]="dataStatistic.value" [circleColor]="'#e6502f'"></data-statistics>
+        <!-- <data-statistics [title]="'15+ years of training experience '" [text]="'The propagation of universities was not necessarily a steady progression'" [value]="15" [circleColor]="'#ffca00'"></data-statistics>
+        <data-statistics [title]="'3+ years of inception '" [text]="'The propagation of universities was not necessarily a steady progression'" [value]="3" [circleColor]="'#32c6d2'"></data-statistics>
+        <data-statistics [title]="'500+ training program'" [text]="'The propagation of universities was not necessarily a steady progression'" [value]="500" [circleColor]="'#c69c6c'"></data-statistics>
+        <data-statistics [title]="'Served major corporates'" [value]="10" [circleColor]="'#80cc09'"></data-statistics> -->
+    </div>
+    </div>
+    
+</div>
+</div>
+</div>
+

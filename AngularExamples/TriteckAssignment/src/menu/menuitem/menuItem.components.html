@@ -1,0 +1,10 @@
+  <div class="card">
+              <h2 class="card-header " [style.background-color]="bgcolor" [style.color]="color">{{heading}}</h2>
+              <div class="card-body " [style.background-color]="bgcolorcontent">
+                    <p class="card-text" [style.color]="color"> </p>
+                        <ul *ngFor="let item of contents"  [style.color]="color">
+                              <li>{{item}}</li>
+                        </ul>
+              </div>
+  </div>
+              

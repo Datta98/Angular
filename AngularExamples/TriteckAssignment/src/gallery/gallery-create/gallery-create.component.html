@@ -1,0 +1,86 @@
+
+    <h1 style="color: white;">Upload File</h1>
+    <div class="row">
+        <h1>Form Details</h1>    
+        <form [formGroup]="detailsform" (ngSubmit)="onSubmit()">
+            <label>Choose Filepath:</label>
+            <input type="text" formControlName="Filepath" placeholder="Enter the filepath">
+            <span class="error" *ngIf="Filepath!.invalid">*filepath is required</span><br>
+    
+            <label>Alternate Name:</label>
+            <input type="text" formControlName="Alt" placeholder="Enter the alt">
+            <span class="error" *ngIf="Alt!.invalid">*Alt name is required</span><br>
+    
+            <button type="submit">Submit</button>&nbsp;
+            <button  (click)="clearForm()" type="reset">Reset</button>
+        </form>
+    
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+    <!-- <div class="center"> 
+        <h1>Form Details</h1>    
+    
+ <form [formGroup]="detailsform"  (ngSubmit)="onSubmit()"> 
+        
+        <label>
+            Filepath: </label><br><br>
+            <input type="file" formControlName="Filepath" placeholder="Enter the path" ngModel><br>
+            <span class="error" *ngIf="Filepath!.invalid">Filepath is required</span>
+         <br><br>
+         
+        
+        <label>
+            Alt:</label><br><br>
+            <input type="text" formControlName="Alt" placeholder="Enter the alt" ngModel><br>
+            <span class="error" *ngIf="Alt!.invalid">Alt is required</span>
+        <br><br>
+        
+        
+    </form>
+    
+
+    <button  (click)="onSubmit()" type="submit">Submit</button><br><br>
+    <button (click)="clearForm()" type="reset" >Reset</button>
+    
+    </div> -->
+    
+    <!-- <div class="center"> 
+    <h1>Form Details</h1>    
+    <form [formGroup]="detailsform" (ngSubmit)="onSubmit()">
+    <table>
+        <tr>
+            <td>
+                <label>Choose Filepath:</label>
+            </td>
+            <td> 
+                <input type="text" formControlName="Filepath" placeholder="Enter the filepath">
+                <span class="error" *ngIf="Filepath!.invalid">*filepath is required</span>
+            </td>
+        </tr><br>
+        <tr>
+            <td> 
+                <label>Alternate Name:</label><br><br></td>
+            <td> 
+                <input type="text" formControlName="Alt" placeholder="Enter the alt">
+                <span class="error" *ngIf="Alt!.invalid">*Alt name is required</span>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <button type="submit">Submit</button>&nbsp;
+                <button  (click)="clearForm()" type="reset">Reset</button>
+            </td>
+        </tr>
+    </table>
+    </form>
+</div>  -->

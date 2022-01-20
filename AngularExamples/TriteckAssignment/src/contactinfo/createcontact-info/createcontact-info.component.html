@@ -1,0 +1,59 @@
+<p>createcontact-info works!</p>
+
+<div class="center"> 
+        <h1>Contact Info Details</h1>    
+    
+    <form [formGroup]="detailsform">
+        <label>
+            content: </label><br><br>
+            <input type="text" formControlName="content" placeholder="Enter the content" required><br>
+            <span class="error" *ngIf="content!.invalid">content is required</span>
+         <br><br>
+         
+        <label>
+            address: </label><br><br>
+            <input type="text" formControlName="address" placeholder="Enter the address"><br>
+            <span class="error" *ngIf="address!.invalid">address is required</span>
+        <br><br>
+        <label>
+            phone:</label><br><br>
+            <input type="text" formControlName="phone" placeholder="Enter phone number"><br>
+            <span class="error" *ngIf="phone!.invalid">Phone number is required</span>
+        <br><br>
+        <label>
+            email: </label><br><br>
+            <input type="text" formControlName="email" placeholder="Enter email"><br>
+            <span class="error" *ngIf="email!.invalid">email is required</span>
+        <br><br>
+        
+    </form>
+    
+    <form [formGroup]="detailsform" (ngSubmit)="onSubmit()"></form>
+    <button (click)="onSubmit()" type="submit">Submit</button>
+    <button  (click)="clearForm()" type="reset" >Reset</button>
+    </div>
+    
+    
+<!-- <table>
+    <tr>
+        <td>Content:</td>
+        <td><input [(ngModel)]="content" type="text" /></td>
+    </tr>
+    <tr>
+            <td>Address:</td>
+        <td><input [(ngModel)]="address" type="text" /></td>
+        </tr>
+        <tr>
+                <td>phone:</td>
+                <td><input [(ngModel)]="phone" type="text" /></td>
+            </tr>
+            <tr>
+                    <td>Email:</td>
+        <td><input [(ngModel)]="email" type="text" /></td>
+                </tr>
+                <tr>
+                        <td><button type="button" name="submit" (click)="onSubmitClick()">submit</button></td>
+                        <td><button type="button" name="clear" (click)="onClearClick()">clear</button></td>
+                    </tr>
+</table> -->
+

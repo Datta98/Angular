@@ -1,0 +1,74 @@
+<!-- 
+<label>
+    Tittle:
+    <input type="text" [formControl] ="details">
+</label>
+<p> Value: {{details.value}}</p>
+<p>
+<button (click) ="updatedetails()">Submit</button>
+</p> -->
+
+<div class="center"> 
+    <h1>Form Details</h1>    
+<form [formGroup]="detailsform">
+
+    <label>
+        Title: </label><br><br>
+        <input type="text" formControlName="Title" placeholder="Enter the Title" required><br>
+        <span class="error" *ngIf="Title!.invalid">Title is required</span>
+     <br><br>
+     
+    <label>
+        Date: </label><br><br>
+        <input type="text" formControlName="Date" placeholder="yyyy-mm-dd">
+    <br><br>
+    <label>
+        Location:</label><br><br>
+        <input type="text" formControlName="Location" placeholder="Enter the Location"><br>
+        <span class="error" *ngIf="Location!.invalid">Location is required</span>
+    <br><br>
+    <label>
+        Description: </label><br><br>
+        <input type="text" formControlName="Description" placeholder="Enter the Description"><br>
+        <span class="error" *ngIf="Description!.invalid">Description is required(Minimum length 10)</span>
+    <br><br>
+    
+</form>
+
+<form [formGroup]="detailsform" (ngSubmit)="onSubmit()"></form>
+<button type="submit">Submit</button><br><br>
+<button (click)="onSubmit()" (click)="clearForm()" type="reset" >Reset</button>
+</div>
+
+
+<!-- 
+<div class="container pt-5">
+        <div class="row justify-content-sm-center pt-5">
+            <div class="col-sm-6 shadow round pb-3">
+              <h1 class="text-center pt-3 text-secondary"> Form</h1>
+                <form [formGroup]="exform">
+                    <div class="form-group">
+                      <label class="col-form-label">Title:</label>
+                      <input formControlName="Title" type="text" class="form-control">
+                      <small *ngIf="Title!.invalid && Title.touched" class="text-danger">Title is Required</small> 
+                    </div>
+                    <div class="form-group">
+                      <label class="col-form-label">Date:</label>
+                      <input formControlName="Date" type="text" class="form-control" >
+                      <small *ngIf="Date!.invalid && Date.touched" class="text-danger">Date is Required</small>
+                    </div>
+                    <div class="form-group">
+                      <label class="col-form-label">Location:</label>
+                      <input formControlName="Location" type="text" class="form-control" >
+                      <small *ngIf="Location!.invalid && Location.touched" class="text-danger">Location no is Required</small>
+                    </div>
+                    <div class="form-group">
+                      <label class="col-form-label">Description:</label>
+                      <textarea formControlName="Description" class="form-control" ></textarea>
+                      <small *ngIf="Description!.invalid" class="text-danger"> Description is Required(minimum length 10)</small> 
+                    </div>
+                    <button  [disabled]="exform!.invalid" type="button" class="btn btn-primary">Submit</button>
+                  </form>
+            </div>
+        </div>
+      </div>  -->

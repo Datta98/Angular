@@ -1,0 +1,23 @@
+<section>
+    <div class="container">
+       <h3>Quick Links</h3>
+        <div class="row">
+            <div *ngFor="let LinksModel of linkModels" class="col-sm-6">
+                    <quicklinks-item [link]="LinksModel.linkText" [href]="LinksModel.href" ></quicklinks-item>
+                <!-- <quicklinks-item [link]="'Polycy & Suport'"></quicklinks-item>
+                <quicklinks-item [link]="'Scholarship program'"></quicklinks-item>
+                <quicklinks-item [link]="'Career Oportunities'"></quicklinks-item>
+                <quicklinks-item [link]="'Student affairs'"></quicklinks-item>
+                <quicklinks-item [link]="'Conference & Event'"></quicklinks-item> -->
+            </div>
+            <div class="col-sm-6">
+                <!-- <quicklinks-item [link]="'Web Design'" ></quicklinks-item>
+                <quicklinks-item [link]="'Android Developer'"></quicklinks-item>
+                <quicklinks-item [link]="'PHP Training'"></quicklinks-item>
+                <quicklinks-item [link]="'IOS Developer'"></quicklinks-item>
+                <quicklinks-item [link]="'App Design Package'"></quicklinks-item> -->
+            </div>
+        </div>
+    </div>
+
+</section>
