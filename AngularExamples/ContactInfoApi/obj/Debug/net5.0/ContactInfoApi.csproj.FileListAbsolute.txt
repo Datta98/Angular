@@ -1,0 +1,118 @@
+C:\Users\thanya.n\source\repos\Angularjs\AngularDemo\ContactInfoApi\obj\Debug\net5.0\ContactInfoApi.csproj.AssemblyReference.cache
+C:\Users\thanya.n\source\repos\Angularjs\AngularDemo\ContactInfoApi\obj\Debug\net5.0\ContactInfoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanya.n\source\repos\Angularjs\AngularDemo\ContactInfoApi\obj\Debug\net5.0\ContactInfoApi.AssemblyInfoInputs.cache
+C:\Users\thanya.n\source\repos\Angularjs\AngularDemo\ContactInfoApi\obj\Debug\net5.0\ContactInfoApi.AssemblyInfo.cs
+C:\Users\thanya.n\source\repos\Angularjs\AngularDemo\ContactInfoApi\obj\Debug\net5.0\ContactInfoApi.csproj.CoreCompileInputs.cache
+C:\Users\thanya.n\source\repos\Angularjs\AngularDemo\ContactInfoApi\obj\Debug\net5.0\ContactInfoApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\thanya.n\source\repos\Angularjs\AngularDemo\ContactInfoApi\obj\Debug\net5.0\ContactInfoApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\thanya.n\source\repos\Angularjs\AngularDemo\ContactInfoApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\thanya.n\source\repos\Angularjs\AngularDemo\ContactInfoApi\bin\Debug\net5.0\appsettings.json
+C:\Users\thanya.n\source\repos\Angularjs\AngularDemo\ContactInfoApi\bin\Debug\net5.0\ContactInfoApi.exe
+C:\Users\thanya.n\source\repos\Angularjs\AngularDemo\ContactInfoApi\bin\Debug\net5.0\ContactInfoApi.deps.json
+C:\Users\thanya.n\source\repos\Angularjs\AngularDemo\ContactInfoApi\bin\Debug\net5.0\ContactInfoApi.runtimeconfig.json
+C:\Users\thanya.n\source\repos\Angularjs\AngularDemo\ContactInfoApi\bin\Debug\net5.0\ContactInfoApi.runtimeconfig.dev.json
+C:\Users\thanya.n\source\repos\Angularjs\AngularDemo\ContactInfoApi\bin\Debug\net5.0\ContactInfoApi.dll
+C:\Users\thanya.n\source\repos\Angularjs\AngularDemo\ContactInfoApi\bin\Debug\net5.0\ref\ContactInfoApi.dll
+C:\Users\thanya.n\source\repos\Angularjs\AngularDemo\ContactInfoApi\bin\Debug\net5.0\ContactInfoApi.pdb
+C:\Users\thanya.n\source\repos\Angularjs\AngularDemo\ContactInfoApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\thanya.n\source\repos\Angularjs\AngularDemo\ContactInfoApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\thanya.n\source\repos\Angularjs\AngularDemo\ContactInfoApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\thanya.n\source\repos\Angularjs\AngularDemo\ContactInfoApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\thanya.n\source\repos\Angularjs\AngularDemo\ContactInfoApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\thanya.n\source\repos\Angularjs\AngularDemo\ContactInfoApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\thanya.n\source\repos\Angularjs\AngularDemo\ContactInfoApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\thanya.n\source\repos\Angularjs\AngularDemo\ContactInfoApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\thanya.n\source\repos\Angularjs\AngularDemo\ContactInfoApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\thanya.n\source\repos\Angularjs\AngularDemo\ContactInfoApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\thanya.n\source\repos\Angularjs\AngularDemo\ContactInfoApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\thanya.n\source\repos\Angularjs\AngularDemo\ContactInfoApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\thanya.n\source\repos\Angularjs\AngularDemo\ContactInfoApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\thanya.n\source\repos\Angularjs\AngularDemo\ContactInfoApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\thanya.n\source\repos\Angularjs\AngularDemo\ContactInfoApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\thanya.n\source\repos\Angularjs\AngularDemo\ContactInfoApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\thanya.n\source\repos\Angularjs\AngularDemo\ContactInfoApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\thanya.n\source\repos\Angularjs\AngularDemo\ContactInfoApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\thanya.n\source\repos\Angularjs\AngularDemo\ContactInfoApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\thanya.n\source\repos\Angularjs\AngularDemo\ContactInfoApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\thanya.n\source\repos\Angularjs\AngularDemo\ContactInfoApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\thanya.n\source\repos\Angularjs\AngularDemo\ContactInfoApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\thanya.n\source\repos\Angularjs\AngularDemo\ContactInfoApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\thanya.n\source\repos\Angularjs\AngularDemo\ContactInfoApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\thanya.n\source\repos\Angularjs\AngularDemo\ContactInfoApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\thanya.n\source\repos\Angularjs\AngularDemo\ContactInfoApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\thanya.n\source\repos\Angularjs\AngularDemo\ContactInfoApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\thanya.n\source\repos\Angularjs\AngularDemo\ContactInfoApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\thanya.n\source\repos\Angularjs\AngularDemo\ContactInfoApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\thanya.n\source\repos\Angularjs\AngularDemo\ContactInfoApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\thanya.n\source\repos\Angularjs\AngularDemo\ContactInfoApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\thanya.n\source\repos\Angularjs\AngularDemo\ContactInfoApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\thanya.n\source\repos\Angularjs\AngularDemo\ContactInfoApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\thanya.n\source\repos\Angularjs\AngularDemo\ContactInfoApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\thanya.n\source\repos\Angularjs\AngularDemo\ContactInfoApi\obj\Debug\net5.0\staticwebassets\ContactInfoApi.StaticWebAssets.Manifest.cache
+C:\Users\thanya.n\source\repos\Angularjs\AngularDemo\ContactInfoApi\obj\Debug\net5.0\staticwebassets\ContactInfoApi.StaticWebAssets.xml
+C:\Users\thanya.n\source\repos\Angularjs\AngularDemo\ContactInfoApi\obj\Debug\net5.0\scopedcss\bundle\ContactInfoApi.styles.css
+C:\Users\thanya.n\source\repos\Angularjs\AngularDemo\ContactInfoApi\obj\Debug\net5.0\ContactInfoApi.RazorTargetAssemblyInfo.cache
+C:\Users\thanya.n\source\repos\Angularjs\AngularDemo\ContactInfoApi\obj\Debug\net5.0\ContactInfoApi.csproj.CopyComplete
+C:\Users\thanya.n\source\repos\Angularjs\AngularDemo\ContactInfoApi\obj\Debug\net5.0\ContactInfoApi.dll
+C:\Users\thanya.n\source\repos\Angularjs\AngularDemo\ContactInfoApi\obj\Debug\net5.0\ref\ContactInfoApi.dll
+C:\Users\thanya.n\source\repos\Angularjs\AngularDemo\ContactInfoApi\obj\Debug\net5.0\ContactInfoApi.pdb
+C:\Users\thanya.n\source\repos\Angularjs\AngularDemo\ContactInfoApi\obj\Debug\net5.0\ContactInfoApi.genruntimeconfig.cache
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\AngularPractice\AngularDemo\ContactInfoApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\AngularPractice\AngularDemo\ContactInfoApi\bin\Debug\net5.0\appsettings.json
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\AngularPractice\AngularDemo\ContactInfoApi\bin\Debug\net5.0\ContactInfoApi.exe
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\AngularPractice\AngularDemo\ContactInfoApi\bin\Debug\net5.0\ContactInfoApi.deps.json
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\AngularPractice\AngularDemo\ContactInfoApi\bin\Debug\net5.0\ContactInfoApi.runtimeconfig.json
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\AngularPractice\AngularDemo\ContactInfoApi\bin\Debug\net5.0\ContactInfoApi.runtimeconfig.dev.json
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\AngularPractice\AngularDemo\ContactInfoApi\bin\Debug\net5.0\ContactInfoApi.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\AngularPractice\AngularDemo\ContactInfoApi\bin\Debug\net5.0\ref\ContactInfoApi.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\AngularPractice\AngularDemo\ContactInfoApi\bin\Debug\net5.0\ContactInfoApi.pdb
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\AngularPractice\AngularDemo\ContactInfoApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\AngularPractice\AngularDemo\ContactInfoApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\AngularPractice\AngularDemo\ContactInfoApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\AngularPractice\AngularDemo\ContactInfoApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\AngularPractice\AngularDemo\ContactInfoApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\AngularPractice\AngularDemo\ContactInfoApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\AngularPractice\AngularDemo\ContactInfoApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\AngularPractice\AngularDemo\ContactInfoApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\AngularPractice\AngularDemo\ContactInfoApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\AngularPractice\AngularDemo\ContactInfoApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\AngularPractice\AngularDemo\ContactInfoApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\AngularPractice\AngularDemo\ContactInfoApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\AngularPractice\AngularDemo\ContactInfoApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\AngularPractice\AngularDemo\ContactInfoApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\AngularPractice\AngularDemo\ContactInfoApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\AngularPractice\AngularDemo\ContactInfoApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\AngularPractice\AngularDemo\ContactInfoApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\AngularPractice\AngularDemo\ContactInfoApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\AngularPractice\AngularDemo\ContactInfoApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\AngularPractice\AngularDemo\ContactInfoApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\AngularPractice\AngularDemo\ContactInfoApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\AngularPractice\AngularDemo\ContactInfoApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\AngularPractice\AngularDemo\ContactInfoApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\AngularPractice\AngularDemo\ContactInfoApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\AngularPractice\AngularDemo\ContactInfoApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\AngularPractice\AngularDemo\ContactInfoApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\AngularPractice\AngularDemo\ContactInfoApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\AngularPractice\AngularDemo\ContactInfoApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\AngularPractice\AngularDemo\ContactInfoApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\AngularPractice\AngularDemo\ContactInfoApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\AngularPractice\AngularDemo\ContactInfoApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\AngularPractice\AngularDemo\ContactInfoApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\AngularPractice\AngularDemo\ContactInfoApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\AngularPractice\AngularDemo\ContactInfoApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\AngularPractice\AngularDemo\ContactInfoApi\obj\Debug\net5.0\ContactInfoApi.csproj.AssemblyReference.cache
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\AngularPractice\AngularDemo\ContactInfoApi\obj\Debug\net5.0\ContactInfoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\AngularPractice\AngularDemo\ContactInfoApi\obj\Debug\net5.0\ContactInfoApi.AssemblyInfoInputs.cache
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\AngularPractice\AngularDemo\ContactInfoApi\obj\Debug\net5.0\ContactInfoApi.AssemblyInfo.cs
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\AngularPractice\AngularDemo\ContactInfoApi\obj\Debug\net5.0\ContactInfoApi.csproj.CoreCompileInputs.cache
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\AngularPractice\AngularDemo\ContactInfoApi\obj\Debug\net5.0\ContactInfoApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\AngularPractice\AngularDemo\ContactInfoApi\obj\Debug\net5.0\ContactInfoApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\AngularPractice\AngularDemo\ContactInfoApi\obj\Debug\net5.0\staticwebassets\ContactInfoApi.StaticWebAssets.Manifest.cache
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\AngularPractice\AngularDemo\ContactInfoApi\obj\Debug\net5.0\staticwebassets\ContactInfoApi.StaticWebAssets.xml
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\AngularPractice\AngularDemo\ContactInfoApi\obj\Debug\net5.0\scopedcss\bundle\ContactInfoApi.styles.css
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\AngularPractice\AngularDemo\ContactInfoApi\obj\Debug\net5.0\ContactInfoApi.RazorTargetAssemblyInfo.cache
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\AngularPractice\AngularDemo\ContactInfoApi\obj\Debug\net5.0\ContactInfoApi.csproj.CopyComplete
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\AngularPractice\AngularDemo\ContactInfoApi\obj\Debug\net5.0\ContactInfoApi.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\AngularPractice\AngularDemo\ContactInfoApi\obj\Debug\net5.0\ref\ContactInfoApi.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\AngularPractice\AngularDemo\ContactInfoApi\obj\Debug\net5.0\ContactInfoApi.pdb
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\AngularPractice\AngularDemo\ContactInfoApi\obj\Debug\net5.0\ContactInfoApi.genruntimeconfig.cache
