@@ -1,0 +1,17 @@
+<p>Hell World</p>
+ <h1>{{appName}}</h1>  <!-- string Interpolation -->
+<input type="text" [value]="userName"> <!-- Property binding -->
+<br><br><br>
+<div>
+    <button (click)="onShow()">Company</button>
+    <h3>{{myname}}</h3>
+  </div>
+  
+  
+<br>
+  <p [class]="myCSSClass">This paragraph class comes from *myCSSClass* property </p>  <!-- Class binding -->
+
+  <br>
+  <br>
+  <input type="text" [(ngModel)]="userName" >
+<p>Two way binding! Hello {{ userName }}!</p>
